@@ -1,0 +1,4 @@
+For Logistic Regression the score is 0.8438930071002428 with parameters {'C': 10, 'class_weight': 'balanced'}
+For Random Forest the score is 0.8700731167094143 with parameters {'max_depth': 8, 'n_estimators': 800, 'class_weight': None}
+For SVC the score is 0.7697701216549834 with parameters {'C': 1.0, 'class_weight': None}
+For Xgbost the score is 0.8680937284390113 with parameters {'max_depth': 4, 'reg_lambda': 10, 'n_estimators': 500, 'learning_rate': 0.1}
